@@ -19,7 +19,7 @@
 }
 .landing {
   height: 600px;
-  background-image: url("../mpft-ip/ip2/assets/backgrounds/landing.jpg");
+  background-image: url("../ip2/assets/backgrounds/landing.jpg");
   text-align: center;
   font-size: 30px;
   color: white;
@@ -57,7 +57,7 @@
   margin: 100px;
 }
 .email{
-  background-image: url("../mpft-ip/ip2/assets/backgrounds/subscribe.jpg");
+  background-image: url("../ip2/assets/backgrounds/subscribe.jpg");
   height: 300px;
   width: 100%;
   color: white;
@@ -68,7 +68,7 @@
 .fastfood {
   color: white;
   text-align: center;
-  background-image: url("../mpft-ip/ip2/assets/backgrounds/foodsBg.jpg");
+  background-image: url("../ip2/assets/backgrounds/foodsBg.jpg");
   height: 600px;
   padding: 150px;
 }
