@@ -64,3 +64,8 @@
   text-align: center;
   font-size: 25px;
 }
+.fastfood {
+  color: white;
+  text-align: center;
+  background-image: url("../mpft-ip/ip2/assets/backgrounds/foodsBg.jpg");
+}
