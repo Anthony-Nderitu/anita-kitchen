@@ -71,3 +71,8 @@
   height: 600px;
   padding: 150px;
 }
+.btn {
+  background-color: white;
+  color: #F15A29;
+  border: 30px solid #F15A29;
+}
