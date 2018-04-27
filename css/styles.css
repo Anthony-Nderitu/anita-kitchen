@@ -1,0 +1,56 @@
+.box1 {
+  border: 2px solid white;
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+  color: black;
+  height: 105px;
+
+}
+.box2 {
+  border: 2px solid white;
+  text-align: center;
+  padding: 5px;
+  background-color: #F15A29;
+  color: white;
+  height: 105px;
+}
+.landing {
+  height: 600px;
+  background-image: url("../mpft-ip/ip2/assets/backgrounds/landing.jpg");
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+.breakfast{
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 90px;
+  text-align: center;
+  font-size: 20px;
+}
+.fastbox {
+  box-shadow: 10px;
+  border: 2px solid white;
+  padding: 30px
+}
+.foodbox {
+  padding: 50px
+}
+#drink2 {
+  padding-right: 15px;
+}
+#drink1 {
+  padding-left: 47px;
+}
+.drinks {
+  padding: 50px;
+}
+.customers{
+  border: 2px solid white;
+  box-shadow: grey;
+  padding: 30px;
+  margin: 100px;
+}
