@@ -1,19 +1,21 @@
 .box1 {
   border: 2px solid white;
   text-align: center;
-  padding: 5px;
+  padding: 30px;
   background-color: white;
   color: black;
   height: 105px;
+  font-size: 23px;
 
 }
 .box2 {
   border: 2px solid white;
   text-align: center;
-  padding: 5px;
+  padding: 30px;
   background-color: #F15A29;
   color: white;
   height: 105px;
+  font-size: 23px;
 }
 .landing {
   height: 600px;
@@ -29,7 +31,7 @@
   width: 100%;
   padding: 90px;
   text-align: center;
-  font-size: 20px;
+  font-size: 23px;
 }
 .fastbox {
   box-shadow: 10px;
@@ -53,4 +55,12 @@
   box-shadow: grey;
   padding: 30px;
   margin: 100px;
+}
+.email{
+  background-image: url("../mpft-ip/ip2/assets/backgrounds/subscribe.jpg");
+  height: 300px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 25px;
 }
